@@ -1,7 +1,7 @@
 # hello-world
-##Good Morning kiddos!
+## Good Morning kiddos!
 
-###Again, **Shalom**!
+### Again, **Shalom**!
 
 The ideal (somewhat reaslistic) weekend schedule: Waking up on a saterday with absolutely no obligations is _extremely_ delightful. 
 :relaxed:
