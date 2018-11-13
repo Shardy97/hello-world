@@ -8,7 +8,7 @@ The ideal (somewhat reaslistic) weekend schedule: Waking up on a saterday with a
 
 **Today's To-Do List**
 
- - [ ] Wake up at naturally.
+ - [ ] Wake up at naturally. :sun_with_face:
 
  - [ ] Eat a _healthy_ breakfast 
 
@@ -22,10 +22,23 @@ The ideal (somewhat reaslistic) weekend schedule: Waking up on a saterday with a
 
  - [ ] **EAT LUNCH!** You. Love. Lunch... Today's menu:
 
-1. salad
-2. rice
-3. omlet
+    1. omlet :egg:
+    2. rice :rice:
+    3. salad :beers:
 
  - [ ] Clean your room so you feel a little accomplished
+
+ - [ ] Relax.  _**HARD**_
+ 
+- [ ] Is it already 7? Dinner time!
+
+- [ ] Clean up and get ready for bed.
+
+- [ ] ~~stay up until 2am watching netflix~~  go to sleep early.  
+
+
+What a nice and unproductive, relaxing day! 
+
+### Get back to the grind tomorrow.  :muscle:
 
 
