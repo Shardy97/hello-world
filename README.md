@@ -8,7 +8,7 @@ The ideal (somewhat reaslistic) weekend schedule: Waking up on a saterday with a
 
 **Today's To-Do List**
 
- [ ] Wake up at naturally.
+ - [ ] Wake up at naturally.
 
 Eat a _healthy_ breakfast 
 
