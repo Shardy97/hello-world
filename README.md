@@ -1,6 +1,8 @@
 # hello-world
 ##Good Morning kiddos!##
-###Again, **Shalom**! 
+
+###Again, **Shalom**!### 
+
 The ideal (somewhat reaslistic) weekend schedule: Waking up on a saterday with absolutely no obligations is _extremely_ delightful. 
 :relaxed:
 
@@ -25,3 +27,5 @@ Get sucked into the black hole that is YouTube.
 3. omlet
 
 Clean your room so you feel a little accomplished
+
+
